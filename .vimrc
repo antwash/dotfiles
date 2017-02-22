@@ -20,7 +20,7 @@ set smartcase               " unless uppercase present
 set smarttab
 set backspace=indent,eol,start
 set spell spelllang=en_us
-set spellfile=~/dotfiles/spell/en.utf-8.add
+set spellfile=$HOME/dotfiles/vim/spell/en.utf-8.add
 set matchpairs+=<:>         " highlight matching [{()}]
 set cursorline              " highlight current line
 set incsearch               " search as characters are entered
