@@ -1,0 +1,7 @@
+# ack-grep
+--color
+--smart-case
+--ignore-dir=.tox
+--ignore-dir=*.egg-info
+--ignore-dir=.eggs
+--ignore-dir=.testrepository
