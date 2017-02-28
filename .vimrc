@@ -8,6 +8,7 @@ if exists("&colorcolumn")
 endif
 set expandtab               " tabs are spaces
 set tabstop=4               " number of visual spaces per TAB
+set shiftwidth=4
 set softtabstop=4           " number of spaces in tab when editing
 set number                  " show line numbers
 set autoindent              " set auto-indenting on
